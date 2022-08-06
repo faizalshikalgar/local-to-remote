@@ -1,4 +1,0 @@
-hi this is new code that is add on master
-and you need to pull master branch
-and merge into your branch becouse
-you are to behind.
