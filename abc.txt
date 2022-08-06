@@ -2,6 +2,13 @@ dil e nadaan tujhe hua kya hai
 iakhir is marz ki dava kya hai
 
 
+<<<<<<< HEAD
 Happy Holi
 Happy diwali
 Eid Mubarak
+=======
+
+diwali
+holi
+
+>>>>>>> master
